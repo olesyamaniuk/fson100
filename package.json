@@ -1,0 +1,21 @@
+{
+  "name": "fson100",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Contacts app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Daniel Marchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "globals": "^15.3.0",
+    "nodemon": "^3.1.3",
+    "prettier": "^3.3.0"
+  }
+}
