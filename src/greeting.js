@@ -1,3 +1,3 @@
 export const greeting = () => {
-    console.log("Hello world");
+    // console.log("Hello world");
 };

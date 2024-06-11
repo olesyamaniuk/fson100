@@ -3,4 +3,4 @@ import { readTextFile } from './files/readFile.js';
 
 greeting();
 
-readTextFile();
+// readTextFile();
